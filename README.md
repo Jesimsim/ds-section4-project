@@ -64,7 +64,6 @@
 - 데이터 EDA, 정제 및 전처리 : 각 모델의 요구 형태(TextRank-문장화, KoBART-문서화)
 - 각 모델 구축 및 Fine Tune : TextRank(추출적요약) 및 SKT-AI의 KoBART 모델(추상적요약) Fine-Tune 모델에 따른 결과물 도출, 성능 비교
 - 최종모델 선정을 위한 정량적 및 정성적 평가 : 추출적모델 대 추상적모델, Pre-trained 모델 대 Fine-tuned 모델, huggingFace의 토크나이저에 따른 결과 비교
-- 패키징 및 배포를 위한 구조 설계
 
 ---
 
