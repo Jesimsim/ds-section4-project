@@ -68,6 +68,10 @@
 ---
 
 ## 프로젝트 결과
+
+![image](https://user-images.githubusercontent.com/114756802/234026996-b67e194e-f495-4890-9c23-177551802025.png)
+
+
 #### 추출적 요약인 TextRank 알고리즘과 추상적 요약인 KoBART 모델의 성능 비교
 - 높은 추상화수준을 가진 KoBART 모델이 TextRank 에 비해 유의미하게 성능이 높음.
 #### 전이학습Fine-tune KoBART 모델과 사전학습Pre-trained KoBART모델의 성능 비교
@@ -77,7 +81,6 @@
 - KoBART-summarization 전용의 토크나이저는 제작자가 다르더라도 요약문 생성에 큰 영향을 미치지 않았음
 - KoBART용이 아닌 일반적인 토크나이저를 적용했을 때의 성능 차이를 확인할 필요성이 있음
 
-![image](https://user-images.githubusercontent.com/114756802/234026996-b67e194e-f495-4890-9c23-177551802025.png)
 
 
 ---
